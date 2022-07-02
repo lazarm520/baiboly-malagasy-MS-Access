@@ -5,5 +5,10 @@ There is two versions :
 * DIEM version
 * Protestant version
 
-Enjoy, Pray and Read :)
+These data was taken from 
+* DIEM : [Unviray](https://github.com/Unviray/baiboly-json) ,
+* Protestant : [Malagasy.xml]
+
+Enjoy, Pray and Read :) 
+----
 Soli Deo Gloria
