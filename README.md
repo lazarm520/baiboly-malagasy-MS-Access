@@ -6,7 +6,7 @@ There is two versions :
 * Protestant version
 
 These data was taken from 
-* DIEM : [Unviray](https://github.com/Unviray/baiboly-json) ,
+* DIEM : [RaveloMevaSoavina/baiboly-json](https://github.com/RaveloMevaSoavina/baiboly-json) ,
 * Protestant : [Malagasy.xml]
 
 Enjoy, Pray and Read :) 
